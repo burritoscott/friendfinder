@@ -17,7 +17,7 @@ var userSchema = MySQL.schema({
   //   token: String,
   //   name: String,
   //   email: String
-  // }
+  }
 });
 
 // methods ======================
