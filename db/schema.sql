@@ -1,8 +1,8 @@
-DROP  DATABASE IF EXISTS meetMutt_db;
+DROP  DATABASE IF EXISTS friendFinder_db;
 
-CREATE DATABASE meetMutt_db;
+CREATE DATABASE friendFinder_db;
 
-USE meetMutt_db;
+USE friendFinder_db;
 
 CREATE TABLE animals(
 	id INT NOT NULL AUTO_INCREMENT,

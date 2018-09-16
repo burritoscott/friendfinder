@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
 
   // Your password
   password: "password",
-  database: "meetMutt_db"
+  database: "friendFinder_db"
 });
 
 connection.connect(function(error) {
